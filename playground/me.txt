@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sunny Srivastava
-Skills: HTML, CSS, JS, Next.js
-Email: srivastavasunny359@gmail.com
-{{/user}}
